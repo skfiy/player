@@ -58,7 +58,6 @@
         {title:"我爱他",artist:"推荐音乐",mp3:"https://music.163.com/song/media/outer/url?id=1382607014.mp3",cover:"http://p2.music.126.net/hjgI6MMM-1F0Ng3E77F33g==/109951164316140556.jpg",},
         {title:"明明",artist:"推荐音乐",mp3:"https://music.163.com/song/media/outer/url?id=1381761209.mp3",cover:"http://p2.music.126.net/AEqLLwzHzHBTQU5QobRA0w==/109951164260658166.jpg",},
         {title:"唱起这首歌",artist:"推荐音乐",mp3:"https://music.163.com/song/media/outer/url?id=1380326741.mp3",cover:"http://p2.music.126.net/CSUvrQlkDYSgZPgWF3tIFw==/109951164241638435.jpg",},
-        {title:"You Need To Calm Down (Clean Bandit Remix)",artist:"推荐音乐",mp3:"https://music.163.com/song/media/outer/url?id=1385336748.mp3",cover:"http://p2.music.126.net/bi-B9Jgwusvxk6tNGPSLfQ==/109951164307894422.jpg",},
         {title:"不得不爱",artist:"推荐音乐",mp3:"https://music.163.com/song/media/outer/url?id=1384527426.mp3",cover:"http://p2.music.126.net/94ofbrM9sC9cQzKf2rO2GQ==/109951164297796644.jpg",},
     ];
     var isRotate = true;
