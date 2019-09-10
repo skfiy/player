@@ -53,7 +53,6 @@
     bodys.appendChild(scripts);
 	
     var	playlist = [
-        {title:"对不起，我真的坚持不住才到你家门口的",artist:"推荐音乐",mp3:"http://audio01.dmhmusic.com/71_53_T10049785966_128_4_1_0_sdk-cpm/0209/M00/B5/AA/ChR4611SmzyAQo6zADfTJU1FSUI899.mp3?xcode=f45f0667ea75d5824ff7a940ee4a15c622c611e",cover:"http://qukufile2.qianqian.com/data2/pic/20875c5ec3f3ef3c8239daf4331ca0aa/664394930/664394930.jpg@s_2,w_150,h_150",},
         {title:"野狼disco",artist:"宝石gem",mp3:"https://music.163.com/song/media/outer/url?id=1357785909.mp3",cover:"http://p2.music.126.net/Jp6P7fQA_1nD3YZ0m7tizA==/109951163989796642.jpg?param=186x186",},
         {title:"好喜欢你",artist:"推荐音乐",mp3:"https://music.163.com/song/media/outer/url?id=1381794108.mp3",cover:"http://p2.music.126.net/9ZCTtbguiCmW_FIr9B-jsA==/109951164269237713.jpg",},
         {title:"我爱他",artist:"推荐音乐",mp3:"https://music.163.com/song/media/outer/url?id=1382607014.mp3",cover:"http://p2.music.126.net/hjgI6MMM-1F0Ng3E77F33g==/109951164316140556.jpg",},
